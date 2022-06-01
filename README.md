@@ -1,2 +1,1 @@
-# MADLAB-repo
-TIC-TAC-TOE App
+# MADLAB-repo TIC-TAC-TOE App
